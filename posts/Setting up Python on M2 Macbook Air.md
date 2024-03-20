@@ -1,9 +1,12 @@
-# Setting up Python on M2 Macbook Air
-
-Created: 2022-09-06 19:09
-Tags: #apple #python #devtools #developmentsetup
-
-
+---
+tags:
+  - apple
+  - python
+  - devtools
+  - developmentsetup
+created: 2022-09-06 19:09
+type: post
+---
 ## Prerequisites:
 
 ### 1. Install Command Line Developer Tools
